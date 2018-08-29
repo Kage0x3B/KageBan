@@ -1,0 +1,3 @@
+rootProject.name = 'kageban'
+
+include 'kageban-common', 'kageban-spigot', 'kageban-bungeecord'

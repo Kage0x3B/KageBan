@@ -1,0 +1,10 @@
+database:
+  #The hostname/IP address of the database
+  address: localhost
+  #The port. The standard port is 28015
+  port: 28015
+  #The name of the RethinkDB database
+  databaseName: kageban
+  username: ''
+  password: ''
+  prefix: kageban

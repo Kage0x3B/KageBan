@@ -1,0 +1,10 @@
+name: KageBan
+version: 1.0
+main: de.syscy.kageban.KageBanSpigot
+authors: [Kage0x3B]
+description: Ban management plugin
+website: https://syscy.de
+commands:
+  kageban:
+    description: Main KageBan command
+    aliases: kb
